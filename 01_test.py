@@ -4,7 +4,8 @@
 
 # COMMAND ----------
 
-
+# MAGIC %md
+# MAGIC Another new markdown
 
 # COMMAND ----------
 
